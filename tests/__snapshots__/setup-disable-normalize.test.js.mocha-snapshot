@@ -1,6 +1,4 @@
-exports["setup disable normalize/should match snapshots with normalize disabled(0)"] = {
-  "length": 1
-};
+exports["setup disable normalize/should match snapshots with normalize disabled(0)"] = {};
 
 exports["setup disable normalize/should match snapshots with normalize disabled(1)"] = 123;
 
